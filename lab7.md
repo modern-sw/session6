@@ -1,0 +1,10 @@
+- TDD unit tests
+  - other: integration + end 2 end
+  - testing pyramid
+- special cases
+  - skip test
+  - test one file
+  - by test pattern
+- test coverage
+- push all labs to github
+- 
