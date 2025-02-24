@@ -106,7 +106,7 @@ Lines        : 34% (6/8)
 
 As we can see, our tests don't cover all the cases in the `userManager.js` file.
 
----
+<!-- ---
 
 ### **Step 4: Add More Tests to Improve Coverage**
 
@@ -133,6 +133,7 @@ test("deleteUser() should return false if user doesn't exist", () => {
 });
 ```
 
+---
 ### **Step 5: Run Coverage Again**
 
 Run `jest --coverage` again and observe the improved coverage.
@@ -147,7 +148,7 @@ Lines        : 100% (8/8)
 ```
 
 Now the tests cover all functions and edge cases.
-
+ -->
 ---
 
 ### **Explanation of Coverage**  
