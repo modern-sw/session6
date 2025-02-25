@@ -17,7 +17,8 @@ This lab will guide you through implementing and testing a **delete function** i
 
 1. **Initialize the project:**  
    ```bash
-   mkdir jest-lab4 && cd jest-lab4
+   mkdir jest-lab4 
+   cd jest-lab4
    npm init -y
    ```  
 

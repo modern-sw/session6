@@ -55,7 +55,7 @@
   - [Activity 1](./material/lab1.md)
   - [Activity 2](./material/lab2.md)  
   - [Activity 3](./material/lab3.md)   
-  - [Activity 4](./material/lab3.md)   
+  - [Activity 4](./material/lab4.md)   
 
 ---
 
