@@ -33,13 +33,10 @@
   - Group Activity
   - `Presentations`
 
----
+<!-- ---
 
 > Bonus week 5
-
-    - Kishan, Yogesh, Misraparvin, Nirmala, 
-    - Group 1: all
-
+ -->
 
 -----
 
