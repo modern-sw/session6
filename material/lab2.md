@@ -20,7 +20,8 @@ By the end of this lab, you will understand how to test retrieval functions and 
 ### **Jest Setup Instructions**  
 1. **Initialize the project:**  
    ```bash
-   mkdir jest-lab2 && cd jest-lab2
+   mkdir jest-lab2 
+   cd jest-lab2
    npm init -y
    ```  
 

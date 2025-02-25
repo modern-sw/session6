@@ -16,7 +16,8 @@ Set up Jest and test the `addOne()` function to ensure it correctly adds pets to
 ### **Step 1: Initialize Project**  
 1. Create a project folder and initialize npm:  
    ```bash
-   mkdir jest-lab1 && cd jest-lab1
+   mkdir jest-lab1 
+   cd jest-lab1
    npm init -y
    ```  
 

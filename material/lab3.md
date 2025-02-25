@@ -20,7 +20,8 @@ By the end of this lab, you will understand how to test update functions and ens
 ### **Jest Setup Instructions**  
 1. **Initialize the project:**  
    ```bash
-   mkdir jest-lab3 && cd jest-lab3
+   mkdir jest-lab3 
+   cd jest-lab3
    npm init -y
    ```  
 

@@ -20,7 +20,8 @@ We will create a small application that performs basic **user operations**: read
 ### **Step 0: Jest Setup Instructions**  
 1. **Initialize the project:**  
    ```bash
-   mkdir jest-lab7 && cd jest-lab7
+   mkdir jest-lab7
+   cd jest-lab7
    npm init -y
    ```  
 

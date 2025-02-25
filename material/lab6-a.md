@@ -18,7 +18,8 @@ In this lab, you will learn how to use Test-Driven Development (TDD) to implemen
 ## Step 1: Initialize the Project
 1. Create a new project folder and navigate into it:
    ```sh
-   mkdir tdd-calculator && cd tdd-calculator
+   mkdir tdd-calculator 
+   cd tdd-calculator
    ```
 2. Initialize a Node.js project:
    ```sh

@@ -18,7 +18,8 @@ We will follow these steps:
 ### **Jest Setup Instructions**  
 1. **Initialize the project:**  
    ```bash
-   mkdir jest-lab5 && cd jest-lab5
+   mkdir jest-lab5
+   cd jest-lab5
    npm init -y
    ```  
 
