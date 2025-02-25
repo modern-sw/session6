@@ -146,7 +146,6 @@ test("addOne() should add a pet and return the new pet object", () => {
     weight: 20,
   });
 
-  console.log("Checking the pet array length...");
   expect(petArray).toHaveLength(1); // Ensure the pet was added to petArray
 });
 
