@@ -37,10 +37,9 @@
 
 > Bonus week 5
 
-    - Kishan, Yogesh, Misraparvin, Nirmala, Prajisha
+    - Kishan, Yogesh, Misraparvin, Nirmala, 
     - Group 1: all
-    - Group 2: Shreya, Palvi, Prajisha
-    - **week 5 Grading**
+
 
 -----
 
@@ -61,9 +60,9 @@
 ### Afternoon
 
 - Presentations
-- TDD
+- [test() vs it()](https://jestjs.io/docs/api#testname-fn-timeout), describe()
+- TDD vs BDD
 - Code Coverage
-- test() vs describe() 
 - Activities
   - [Activity 5](./material/lab5.md)
   - [Activity 6 A](./material/lab6-a.md)  
