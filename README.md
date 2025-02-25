@@ -1,12 +1,13 @@
 # Session 6: Testing
 
+<!-- 
 ### Announcements
-
 - Presentations
-- 
-
+-  
 
 ---
+-->
+
 
 ### Topics
 
