@@ -1,5 +1,8 @@
 # **Lab: Test-Driven Development (TDD) in JavaScript**  
 
+> Please [push the source code to GitHub](./push-to-github.md)
+
+---
 ## **Introduction to TDD**  
 
 **Test-Driven Development (TDD)** is a software development process that emphasizes writing tests before writing the actual implementation code.  
@@ -128,7 +131,7 @@ module.exports = { addUser, getUsers, resetUsers };
 Our code is already clean, but if we notice inefficiencies, we should refactor while keeping tests green.  
 
 
-**Optimization 1:** Store users in an **object (map)** instead of an array for faster lookups.  
+**Optimization:** Store users in an **object (map)** instead of an array for faster lookups.  
 
 **Refactored userManager.js**  
 

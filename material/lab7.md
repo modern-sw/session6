@@ -1,5 +1,6 @@
 # **Lab on Miscellaneous Testing Topics**
 
+
 In this lab, we will cover a series of miscellaneous topics that are important for writing effective and maintainable tests. These topics include **code coverage**, **the relationship between TDD and unit testing**, **integration vs. end-to-end tests**, **the testing pyramid**, and **special test cases** like skipping tests or running tests by pattern.
 
 ---
@@ -8,6 +9,29 @@ In this lab, we will cover a series of miscellaneous topics that are important f
 
 ### **Objective:**  
 We will create a small application that performs basic **user operations**: reading, updating, and deleting users. Then, we will demonstrate how poor test coverage can impact your application and show how to improve coverage.
+
+---
+
+
+
+### **Step 0: Jest Setup Instructions**  
+1. **Initialize the project:**  
+   ```bash
+   mkdir jest-lab7 && cd jest-lab7
+   npm init -y
+   ```  
+
+2. **Install Jest:**  
+   ```bash
+   npm install --save-dev jest
+   ```  
+
+3. **Update `package.json`:**  
+   ```json
+   "scripts": {
+     "test": "jest"
+   }
+   ```  
 
 ---
 
@@ -103,8 +127,6 @@ Branches     : 75% (4/8)
 Functions    : 100% (4/4)
 Lines        : 34% (6/8)
 ```
-
-As we can see, our tests don't cover all the cases in the `userManager.js` file.
 
 <!-- ---
 
@@ -234,7 +256,7 @@ This will run tests only for the `userManager.test.js` file.
 You can also run tests based on a pattern, which can be useful if you have many tests and want to filter them.
 
 ```bash
-jest "addUser"
+npm test -- --test-name-pattern="addUser"
 ```
 
 This will run all tests that have the string `addUser` in their names.

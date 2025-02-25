@@ -1,5 +1,8 @@
 # **📚 Lab Instructions: Testing Basics with Jest and JavaScript**  
 
+> Please [push the source code to GitHub](./push-to-github.md)
+
+---
 ## **🔹 Part 1: Setting Up Jest and Testing `petManager.js`**  
 
 ### **Objective**  
@@ -7,7 +10,37 @@ Set up Jest and test the `addOne()` function to ensure it correctly adds pets to
 
 ---
 
-## **1️⃣ Code Setup**  
+
+## **Jest Setup Instructions**  
+
+### **Step 1: Initialize Project**  
+1. Create a project folder and initialize npm:  
+   ```bash
+   mkdir jest-lab1 && cd jest-lab1
+   npm init -y
+   ```  
+
+### **Step 2: Install Jest**  
+```bash
+npm install --save-dev jest
+```  
+
+### **Step 3: Update `package.json`**  
+Add the Jest test script:  
+```json
+"scripts": {
+  "test": "jest"
+}
+```  
+
+### **Step 4: Run Tests**  
+```bash
+npm test
+```  
+
+---
+
+## **Code Setup**  
 
 ### **`petManager.js`**  
 ```javascript
@@ -73,35 +106,6 @@ test("addOne() should return false for invalid data types", () => {
   expect(addOne("Buddy", "Dog", -2, "Brown", 20)).toBe(false); // Age should be positive
   expect(addOne("Buddy", "Dog", 3, "Brown", "Heavy")).toBe(false); // Weight should be a number
 });
-```  
-
----
-
-## **2️⃣ Jest Setup Instructions**  
-
-### **Step 1: Initialize Project**  
-1. Create a project folder and initialize npm:  
-   ```bash
-   mkdir jest-lab1 && cd jest-lab1
-   npm init -y
-   ```  
-
-### **Step 2: Install Jest**  
-```bash
-npm install --save-dev jest
-```  
-
-### **Step 3: Update `package.json`**  
-Add the Jest test script:  
-```json
-"scripts": {
-  "test": "jest"
-}
-```  
-
-### **Step 4: Run Tests**  
-```bash
-npm test
 ```  
 
 ---

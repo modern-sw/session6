@@ -1,5 +1,9 @@
 # **📚 Lab Instructions: Testing `getAll()` with Jest and JavaScript**  
 
+> Please [push the source code to GitHub](./push-to-github.md)
+
+---
+
 ## **🔹 Overview**  
 In this lab, you will:  
 1. **Part 1**: Set up Jest and test `getAll()` in `petManager2.js`.  
@@ -12,7 +16,34 @@ By the end of this lab, you will understand how to test retrieval functions and 
 
 ## **🔹 Part 1: Testing `getAll()` in `petManager2.js`**  
 
-### **1️⃣ Code Setup**  
+
+### **Jest Setup Instructions**  
+1. **Initialize the project:**  
+   ```bash
+   mkdir jest-lab2 && cd jest-lab2
+   npm init -y
+   ```  
+
+2. **Install Jest:**  
+   ```bash
+   npm install --save-dev jest
+   ```  
+
+3. **Update `package.json`:**  
+   ```json
+   "scripts": {
+     "test": "jest"
+   }
+   ```  
+
+4. **Run Tests:**  
+   ```bash
+   npm test
+   ```  
+
+---
+
+### **Code Setup**  
 
 ### **`petManager2.js`**  
 This module manages a collection of pets, allowing you to add pets and retrieve all pets.  
@@ -52,7 +83,7 @@ module.exports = { addOne, getAll, petArray, resetState };
 
 ---
 
-### **2️⃣ Writing Tests for `getAll()`**  
+### **Writing Tests for `getAll()`**  
 
 ### **`petManager2.test.js`**  
 We will test:  
@@ -114,32 +145,6 @@ test("getAll() should return an array with multiple pets after calling addOne() 
   expect(allPets).toHaveLength(2);
 });
 ```  
-
----
-
-### **3️⃣ Jest Setup Instructions**  
-1. **Initialize the project:**  
-   ```bash
-   mkdir jest-lab && cd jest-lab
-   npm init -y
-   ```  
-
-2. **Install Jest:**  
-   ```bash
-   npm install --save-dev jest
-   ```  
-
-3. **Update `package.json`:**  
-   ```json
-   "scripts": {
-     "test": "jest"
-   }
-   ```  
-
-4. **Run Tests:**  
-   ```bash
-   npm test
-   ```  
 
 ---
 

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1740464431473" clover="3.2.0">
+  <project timestamp="1740464431473" name="All files">
+    <metrics statements="118" coveredstatements="118" conditionals="59" coveredconditionals="59" methods="36" coveredmethods="36" elements="213" coveredelements="213" complexity="0" loc="118" ncloc="118" packages="1" files="9" classes="9"/>
+    <file name="blogManager.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\blogManager.js">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="34" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="44" count="2" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+    </file>
+    <file name="calculator.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\calculator.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="petManager1.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\petManager1.js">
+      <metrics statements="10" coveredstatements="10" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="10" count="3" type="cond" truecount="7" falsecount="0"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+    <file name="petManager2.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\petManager2.js">
+      <metrics statements="11" coveredstatements="11" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="12" count="6" type="cond" truecount="7" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+    </file>
+    <file name="petManager3.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\petManager3.js">
+      <metrics statements="16" coveredstatements="16" conditionals="9" coveredconditionals="9" methods="5" coveredmethods="5"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="8" type="stmt"/>
+      <line num="6" count="8" type="stmt"/>
+      <line num="12" count="8" type="cond" truecount="7" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="26" count="6" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="37" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+    </file>
+    <file name="petManager4.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\petManager4.js">
+      <metrics statements="21" coveredstatements="21" conditionals="11" coveredconditionals="11" methods="7" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="10" type="stmt"/>
+      <line num="6" count="10" type="stmt"/>
+      <line num="12" count="9" type="cond" truecount="7" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+      <line num="25" count="7" type="stmt"/>
+      <line num="27" count="7" type="stmt"/>
+      <line num="31" count="4" type="stmt"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="38" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="50" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+    </file>
+    <file name="petManager5.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\petManager5.js">
+      <metrics statements="21" coveredstatements="21" conditionals="11" coveredconditionals="11" methods="7" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="9" type="stmt"/>
+      <line num="6" count="9" type="stmt"/>
+      <line num="12" count="8" type="cond" truecount="7" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="26" count="6" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="37" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="48" count="2" type="stmt"/>
+      <line num="49" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+    </file>
+    <file name="userManager.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\userManager.js">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="29" count="5" type="stmt"/>
+      <line num="30" count="5" type="stmt"/>
+      <line num="34" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="36" count="6" type="stmt"/>
+      <line num="37" count="6" type="stmt"/>
+      <line num="38" count="6" type="stmt"/>
+      <line num="40" count="6" type="stmt"/>
+      <line num="44" count="4" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+    </file>
+    <file name="workoutManager.js" path="D:\dev\1-modern-sw\sessions\session6\material\src\workoutManager.js">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="28" count="3" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="33" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
