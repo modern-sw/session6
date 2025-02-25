@@ -40,7 +40,6 @@
     - Kishan, Yogesh, Misraparvin, Nirmala, Prajisha
     - Group 1: all
     - Group 2: Shreya, Palvi, Prajisha
-    - Abhay: React router + useState
     - **week 5 Grading**
 
 -----
