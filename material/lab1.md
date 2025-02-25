@@ -1,6 +1,6 @@
 # **📚 Lab Instructions: Testing Basics with Jest and JavaScript**  
 
-> Please [push the source code to GitHub](./push-to-github.md)
+> Please [push the source code to GitHub](./push-to-github.md) once you have completed the lab.
 
 ---
 ## **🔹 Part 1: Setting Up Jest and Testing `petManager.js`**  

@@ -1,6 +1,6 @@
 # **📚 Lab Instructions: Testing `update()` with Jest and JavaScript**  
 
-> Please [push the source code to GitHub](./push-to-github.md)
+> Please [push the source code to GitHub](./push-to-github.md) once you have completed the lab.
 
 ---
 

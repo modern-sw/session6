@@ -1,6 +1,6 @@
 # **Lab: Using `describe` Blocks for Better Test Organization**  
 
-> Please [push the source code to GitHub](./push-to-github.md)
+> Please [push the source code to GitHub](./push-to-github.md) once you have completed the lab.
 
 ---
 In this lab, you will learn how to use `describe` blocks in Jest to structure test cases logically.  

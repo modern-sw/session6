@@ -1,5 +1,10 @@
 # Lab: Test-Driven Development (TDD) and Code Coverage with Jest
 
+
+> Please [push the source code to GitHub](./push-to-github.md) once you have completed the lab.
+
+---
+
 ## Objective
 In this lab, you will learn how to use Test-Driven Development (TDD) to implement a simple calculator in JavaScript. You will also learn how to measure and improve test coverage using Jest.
 

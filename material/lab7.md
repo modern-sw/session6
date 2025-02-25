@@ -1,5 +1,8 @@
 # **Lab on Miscellaneous Testing Topics**
 
+> Please [push the source code to GitHub](./push-to-github.md) once you have completed the lab.
+
+---
 
 In this lab, we will cover a series of miscellaneous topics that are important for writing effective and maintainable tests. These topics include **code coverage**, **the relationship between TDD and unit testing**, **integration vs. end-to-end tests**, **the testing pyramid**, and **special test cases** like skipping tests or running tests by pattern.
 

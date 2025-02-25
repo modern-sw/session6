@@ -1,6 +1,6 @@
 # **Lab: Test-Driven Development (TDD) in JavaScript**  
 
-> Please [push the source code to GitHub](./push-to-github.md)
+> Please [push the source code to GitHub](./push-to-github.md) once you have completed the lab.
 
 ---
 ## **Introduction to TDD**  
