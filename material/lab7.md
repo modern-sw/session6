@@ -250,7 +250,7 @@ test.only("This test will run exclusively", () => {
 You can run tests for a specific file using the `--testPathPattern` option.
 
 ```bash
-jest --testPathPattern="userManager.test.js"
+npm test --testPathPattern="userManager.test.js"
 ```
 
 This will run tests only for the `userManager.test.js` file.
