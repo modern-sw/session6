@@ -8,6 +8,11 @@
 ---
 -->
 
+> [!IMPORTANT]
+> - Please note that *Session 6* will be from **9:00- 14:15** and **Sessions 7-8** on **Tuesdays**.
+> - Make sure **all group members are aware** of this change.
+
+---
 
 ### Topics
 
